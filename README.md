@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/Hero-exe/profile-language-card/main/dist/profile.svg)
+![Profile language card](https://Hero-exe.github.io/profile-language-card/profile.svg)
