@@ -1,1 +1,1 @@
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](https://raw.githubusercontent.com/Hero-exe/profile-language-card/main/dist/profile.svg)
